@@ -1,0 +1,27 @@
+{
+  "name": "is-valid-date",
+  "version": "1.0.0",
+  "description": "Javascript test if input is a valid date",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/julkwel/is-valid-date.git"
+  },
+  "keywords": [
+    "javascript",
+    "is-valid-date",
+    "date"
+  ],
+  "author": "@julkwel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julkwel/is-valid-date/issues"
+  },
+  "homepage": "https://github.com/julkwel/is-valid-date#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
